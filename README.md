@@ -5,8 +5,10 @@ LLK mock ROS1/2 message
 
 ### Live Data
 
-https://docs.foxglove.dev/docs/getting-started/custom#connect
+docs: https://docs.foxglove.dev/docs/getting-started/custom#connect
 
-https://docs.foxglove.dev/docs/sdk/example?lang=python
+docs: https://docs.foxglove.dev/docs/sdk/example?lang=python
 
-https://foxglove-sdk-api-docs.pages.dev/python/
+docs: https://foxglove-sdk-api-docs.pages.dev/python/
+
+ws example: https://github.com/foxglove/ws-protocol
