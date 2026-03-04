@@ -1,3 +1,6 @@
+
+# lichtblick mock message to ws
+
 import foxglove
 import time
 
